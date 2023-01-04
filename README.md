@@ -6,7 +6,7 @@ I make Python pages, bash scripts, and some brainf\*\*k scripts.
 
 ## LICENSE
 
-LICENSE → applies to all text files.
+LICENSE → applies to all text files.  
 LICENSE.pictures → applies to pictures.
 
 ## GPG
