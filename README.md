@@ -1,4 +1,6 @@
-# IAX86
+# IAX86-work-collection
+
+Splited from Programming-work-collection.
 
 I make Python pages, bash scripts, and some brainf\*\*k scripts.  
 
