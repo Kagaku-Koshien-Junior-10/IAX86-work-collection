@@ -12,6 +12,7 @@ var nc float64 = 0
 var ic float64 = 0
 
 func main() {
+	fmt.Println("空白マスをクリックしても周りが取れない場合のマインスイーパ完全勝利確率の計算")
 	for c < i-1 {
 		c = c + 1
 		nc = n - c
@@ -19,5 +20,6 @@ func main() {
 		e = ic / nc
 		d = d * e
 	}
-	fmt.Println("Answer is", d, "?")
+	d = d * 100
+	fmt.Println("確率的には大体", d, "%くらいかと")
 }
