@@ -21,5 +21,5 @@ func main() {
 		d = d * e
 	}
 	d = d * 100
-	fmt.Println("確率的には大体", d, "%くらいかと")
+	fmt.Print("確率的には大体", d, "%くらいかと\n")
 }
